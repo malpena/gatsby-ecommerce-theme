@@ -140,6 +140,7 @@ const IndexPage = () => {
           <img src={toOptimizedImage(`/social/socialMedia4.png`)} alt={'social media 4'} />
         </div>
       </div>
+      <script data-chat-entry-id="PLtoZVGfT8e8kLDvluL1EQ" data-env="us01" data-apikey="0Omf_W03R76y7D8B_BAgJQ" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/chat-client.js"></script>
       <AttributeGrid />
     </Layout>
   );
