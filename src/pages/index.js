@@ -31,7 +31,7 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner4.png'}
-        title={'Zoomlly Chic city looks'}
+        title={'Comfort for CX pros'}
         subtitle={'Discover Spring 2024'}
         ctaText={'shop now'}
         ctaAction={goToShop}
@@ -40,13 +40,10 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
+          This is a demonstration of {' '}
+          <span className={styles.gold}>Zoom Contact Center.</span>
         </p>
-        <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
-        </p>
+
       </div>
 
       {/* Collection Container */}
